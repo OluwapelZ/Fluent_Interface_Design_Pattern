@@ -13,3 +13,6 @@ Oluwapelumi Olaoye
 
 
 Damilare Durojaye
+
+
+# If this repo has helped you add knowledge about what design pattern is, do well to star it
