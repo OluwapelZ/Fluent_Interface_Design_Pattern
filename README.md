@@ -1,6 +1,6 @@
 # Fluent_Interface_Design_Pattern
 This is a simple and basic example of Fluent interface Design Pattern which 
-has a rampant use in all languages with frame work included. 
+has a rampant use across all languages. 
 
 
 Star this project if it helps you understand what fluent interface truly means
